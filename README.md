@@ -8,4 +8,4 @@ Complete BlueSCSI disk image, including many games, for a Macintosh Plus 1MB.
 <p></p>
 <img width="500" height="500" alt="IMG_1847" src="https://github.com/user-attachments/assets/1a545ed9-443a-4e6a-a9b1-6b577fab51b4" />
 <p></p>
-<p><br>Associated article: <a href="https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html">https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html</a></p>
+<p>Associated article: <a href="https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html">https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html</a></p>
