@@ -1,6 +1,6 @@
 # Ready-to-Use Macintosh Plus BlueSCSI Disk Image
 Complete BlueSCSI disk image, including many games, for a Macintosh Plus 1MB.
-<br>
+<p></p>
 <img width="500" height="500" alt="IMG_1864" align="center" src="https://github.com/user-attachments/assets/bd2fea74-129f-44ed-ac18-f9f60adcbe64" />
 <p><br>Just copy all files to the root directory of an exFAT-formatted SD card, insert it into the BlurSCSI, and boot your Macintosh Plus from it. Within "System 608" there is a folder called "Games," with many games ready to use.
 </p><br>
